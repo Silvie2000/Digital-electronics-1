@@ -1,14 +1,34 @@
 # Digital-electronics-1
 ## Dekodér
-**Source code**
+**Dekodér binárního kódu na 1z8.**
 
 ```vhdl
-architecture dataflow of gates is
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL, IEEE.NUMERIC_STD.all;
+use IEEE.STD_LOGIC_ARITH.ALL;
+use IEEE.STD_LOGIC_UNSIGNED.ALL;
+ 
+entity Decoder is
+  port (
+    A : in std_logic_vector (2 downto 0);
+    Y : out std_logic_vector(7 downto 0)
+  );
+end Decoder;
+ 
+architecture behavioral of Decoder is
 begin
-f_o  <= ((not b_i) and a_i) or ((not c_i) and (not b_i));
-fnand_o <==
---fand_o <= and b_i;
---fxor_o <= a_i xor b_i;
-
-and architecture dataflow;
+  process (A) begin
+    case A is
+      when "000" => Y <= "00000001";
+      when "001" => Y <= "00000010";
+      when "010" => Y <= "00000100";
+      when "011" => Y <= "00001000";
+      when "100" => Y <= "00010000";
+      when "101" => Y <= "00100000";
+      when "110" => Y <= "01000000";
+      when "111" => Y <= "10000000";
+      when others => Y <= "00000000";
+    end case;
+  end process;
+end behavioral;
 ```
