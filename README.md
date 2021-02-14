@@ -7,10 +7,10 @@
 *Dekodér binárního kódu na 1z8.*
 
 **Images**
-Reference-style: 
+
 ![HI][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[logo]: https://e7.pngegg.com/pngimages/914/758/png-clipart-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper.png "Logo Title Text 2"
 
 
 
