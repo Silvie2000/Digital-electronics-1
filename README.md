@@ -7,7 +7,10 @@
 *Dekodér binárního kódu na 1z8.*
 
 **Images**
-![https://blog.inpage.cz/inpage/obrazky-inpage-velikost-a-pouziti/](https://blog.inpage.cz/inpage/obrazky-inpage-velikost-a-pouziti/)
+Reference-style: 
+![HI][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
 
 
