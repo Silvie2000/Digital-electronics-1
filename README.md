@@ -10,5 +10,5 @@ fnand_o <==
 --fand_o <= and b_i;
 --fxor_o <= a_i xor b_i;
 
-and architecture datafllow;
+and architecture dataflow;
 ```
