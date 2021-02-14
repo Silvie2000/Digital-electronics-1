@@ -2,7 +2,9 @@
 ## Dekodér
 
 **Links**
-[I'm an inline-style link](https://www.google.com)
+[Co je to dekoder](https://www.itvlaky.cz/kategorie/lokomotivni-a-funkcni-dekodery/)
+
+
 **Images**
 
 
