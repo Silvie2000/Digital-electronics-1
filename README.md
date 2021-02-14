@@ -5,8 +5,9 @@
 [Co je to dekoder](https://www.itvlaky.cz/kategorie/lokomotivni-a-funkcni-dekodery/)
 
 *Dekodér binárního kódu na 1z8.*
+
 **Images**
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://www.gme.cz/74hc42-so16-texas-instruments)
 
 
 
