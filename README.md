@@ -1,6 +1,8 @@
 # Digital-electronics-1
 ## Dekodér
 
+*Dekodér binárního kódu na 1z8.*
+
 **Links**
 [Co je to dekoder](https://www.itvlaky.cz/kategorie/lokomotivni-a-funkcni-dekodery/)
 
@@ -10,7 +12,7 @@
 
 
 
-**Dekodér binárního kódu na 1z8.**
+
 
 ```vhdl
 library IEEE;
