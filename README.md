@@ -1,5 +1,12 @@
 # Digital-electronics-1
 ## Dekodér
+
+**Links**
+Co je to dekodér? (https://www.itbiz.cz/slovnik/informacni-technologie-it/dekoder)
+
+
+
+
 **Dekodér binárního kódu na 1z8.**
 
 ```vhdl
