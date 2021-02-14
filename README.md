@@ -1,5 +1,5 @@
 # Digital-electronics-1
-## LABS
+## Dekodér
 **Source code**
 
 ```vhdl
