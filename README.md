@@ -1,10 +1,8 @@
 # Digital-electronics-1
 ## Dekodér
 
-**List** 
- 
 **Links**
-.[Co je to dekodér].(https://www.google.com)
+[I'm an inline-style link](https://www.google.com)
 **Images**
 
 
