@@ -11,6 +11,13 @@
 
 [logo]: https://media2.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif
 
+**Tables**
+
+First Header | Second Header
+-------------| ------------
+Ahoj	| Ahojky
+
+
 
 
 *Dekodér binárního kódu na 1z8.*
