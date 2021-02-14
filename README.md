@@ -10,7 +10,7 @@
 
 ![HI][logo]
 
-[logo]: https://compote.slate.com/images/697b023b-64a5-49a0-8059-27b963453fb1.gif
+[logo]: https://media2.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif
 
 
 
