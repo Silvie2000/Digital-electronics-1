@@ -7,7 +7,7 @@
 *Dekodér binárního kódu na 1z8.*
 
 **Images**
-![Gme](https://blog.inpage.cz/inpage/obrazky-inpage-velikost-a-pouziti/)
+![https://blog.inpage.cz/inpage/obrazky-inpage-velikost-a-pouziti/](https://blog.inpage.cz/inpage/obrazky-inpage-velikost-a-pouziti/)
 
 
 
