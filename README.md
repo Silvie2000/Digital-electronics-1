@@ -2,7 +2,7 @@
 ## Dekodér
 
 **Links**
-Co je to dekodér? (https://www.itbiz.cz/slovnik/informacni-technologie-it/dekoder)
+.[Co je to dekodér?].(https://www.itbiz.cz/slovnik/informacni-technologie-it/dekoder)
 
 
 
