@@ -7,7 +7,7 @@
 *Dekodér binárního kódu na 1z8.*
 
 **Images**
-![Gme](https://www.gme.cz/74hc42-so16-texas-instruments)
+![Gme](https://blog.inpage.cz/inpage/obrazky-inpage-velikost-a-pouziti/)
 
 
 
