@@ -10,7 +10,7 @@
 
 ![HI][logo]
 
-[logo]: https://e7.pngegg.com/pngimages/914/758/png-clipart-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper.png "Logo Title Text 2"
+[logo]: https://compote.slate.com/images/697b023b-64a5-49a0-8059-27b963453fb1.gif
 
 
 
