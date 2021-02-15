@@ -1,9 +1,6 @@
-<<<<<<< HEAD
+
 ## 1. GitHub link
 https://github.com/Silvie2000/Digital-electronics-1
-=======
-### H3
->>>>>>> 0d5f674758807d8925fc41ed5cb80b0a2bf709d2
 
 ## 2. De Morgan's laws simulation
 
@@ -86,8 +83,3 @@ https://www.edaplayground.com/x/8Pbw
 
 
 
-
-<<<<<<< HEAD
-=======
-![Simulace](Images/01.PNG)
->>>>>>> 0d5f674758807d8925fc41ed5cb80b0a2bf709d2
