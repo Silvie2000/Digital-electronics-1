@@ -24,7 +24,7 @@ end architecture dataflow;
 ```
 
 ### Screenshot
-![Simulace De Morgan's laws](Images/02.PNG)
+![Simulace De Morgan's laws](Images/02.png)
 ### EDA playground link
 https://www.edaplayground.com/x/THp8
 
