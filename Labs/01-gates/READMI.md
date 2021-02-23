@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 
+=======
+
+>>>>>>> a3e8cd4abe5371edaac86e2b6a9f029c99bc14ae
 ## 1. GitHub link
 https://github.com/Silvie2000/Digital-electronics-1
 
@@ -24,31 +28,22 @@ end architecture dataflow;
 ```
 
 ### Screenshot
-![Simulace De Morgan's laws](Images/02.PNG)
+![Simulace De Morgan's laws](Images/02.png)
 ### EDA playground link
 https://www.edaplayground.com/x/THp8
 
 ### Table
-
 | **c** | **b** |**a** | **f(c,b,a)** | 
-
 | :-: | :-: | :-: | :-: | 
-
 | 0 | 0 | 0 | 1 | 
-
 | 0 | 0 | 1 | 1 | 
-
 | 0 | 1 | 0 | 0 | 
-
 | 0 | 1 | 1 | 0 | 
-
 | 1 | 0 | 0 | 1 | 
-
 | 1 | 0 | 1 | 0 | 
-
 | 1 | 1 | 0 | 0 | 
-
 | 1 | 1 | 1 | 0 | 
+
 
 
 
@@ -79,7 +74,10 @@ end architecture dataflow;
 https://www.edaplayground.com/x/8Pbw
 
 
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> a3e8cd4abe5371edaac86e2b6a9f029c99bc14ae
