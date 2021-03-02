@@ -128,3 +128,73 @@ s_sel <= "01"; wait for 50 ns;
 
 
 ## 3. A vivado tutorial
+
+### New project
+
+1. <b>create new project</b>
+
+![tutorial](Images/T_01.png)
+
+
+2. <b>next</b>
+![tutorial]
+(Images/T_02.png)
+
+
+3. project name -> <b>next</b>
+
+![tutorial](Images/T_03.png)
+
+
+4. check <b>RTL Project</b> -> <b>next</b>
+
+![tutorial](Images/T_04.png)
+
+
+5. <b>create file</b> -> file type = <b>VHDL</b> -> file name -> <b>ok</b> -> <b>next</b>
+
+![tutorial](Images/T_05.png)
+
+
+6. <b>next</b>
+
+![tutorial](Images/T_06.png)
+
+
+7. click on <b>boards</b> -> find and click on <b>nexys a7-50t</b> -> <b>next</b>
+
+![tutorial](Images/T_07.png)
+![tutorial](Images/T_08.png)
+
+
+8. <b>finish</b>
+
+![tutorial](Images/T_09.png)
+
+
+9. wait, then <b>ok</b>
+
+![tutorial](Images/T_10.png)
+
+
+
+### New simulation source
+
+1. <b>file</b> -> <b>add sources...</b> / or just <b>alt+a</b><br>
+
+![tutorial](Images/T_11.png)
+
+
+3. <b>add or create simulation sources</b> -> <b>next</b>
+
+![tutorial](Images/T_12.png)
+
+
+4. <b>create file</b> -> file type = <b>VHDL</b> -> <b>tb_</b>projectname -> <b>ok</b> -> <b>finish</b>
+
+![tutorial](Images/T_13.png)
+
+
+5. done
+
+![tutorial](Images/T_14.png)
