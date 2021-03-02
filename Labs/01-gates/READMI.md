@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 
-=======
-
->>>>>>> a3e8cd4abe5371edaac86e2b6a9f029c99bc14ae
 ## 1. GitHub link
 https://github.com/Silvie2000/Digital-electronics-1
 
@@ -73,11 +69,3 @@ end architecture dataflow;
 ### EDA playground link
 https://www.edaplayground.com/x/8Pbw
 
-
-<<<<<<< HEAD
-
-
-
-
-=======
->>>>>>> a3e8cd4abe5371edaac86e2b6a9f029c99bc14ae
