@@ -81,72 +81,44 @@ p_stimulus : process
 ### New project
 
 1. <b>create new project</b>
-
-![tutorial](Images/T_01.png)
-
+![tutorial](Images/T_01.PNG)
 
 2. <b>next</b>
-![tutorial]
-(Images/T_02.png)
-
+![tutorial](Images/T_02.PNG)
 
 3. project name -> <b>next</b>
-
-![tutorial](Images/T_03.png)
-
+![tutorial](Images/T_03.PNG)
 
 4. check <b>RTL Project</b> -> <b>next</b>
-
-![tutorial](Images/T_04.png)
-
+![tutorial](Images/T_04.PNG)
 
 5. <b>create file</b> -> file type = <b>VHDL</b> -> file name -> <b>ok</b> -> <b>next</b>
-
-![tutorial](Images/T_05.png)
-
+![tutorial](Images/T_05.PNG)
 
 6. <b>next</b>
-
-![tutorial](Images/T_06.png)
-
+![tutorial](Images/T_06.PNG)
 
 7. click on <b>boards</b> -> find and click on <b>nexys a7-50t</b> -> <b>next</b>
-
-![tutorial](Images/T_07.png)
-![tutorial](Images/T_08.png)
-
+![tutorial](Images/T_07.PNG)
+![tutorial](Images/T_08.PNG)
 
 8. <b>finish</b>
-
-![tutorial](Images/T_09.png)
-
+![tutorial](Images/T_09.PNG)
 
 9. wait, then <b>ok</b>
-
-![tutorial](Images/T_10.png)
-
-
+![tutorial](Images/T_10.PNG)
 
 ### New simulation source
 
 1. <b>file</b> -> <b>add sources...</b> / or just <b>alt+a</b><br>
-
-![tutorial](Images/T_11.png)
-
+![tutorial](Images/T_11.PNG)
 
 3. <b>add or create simulation sources</b> -> <b>next</b>
-
-![tutorial](Images/T_12.png)
-
+![tutorial](Images/T_12.PNG)
 
 4. <b>create file</b> -> file type = <b>VHDL</b> -> <b>tb_</b>projectname -> <b>ok</b> -> <b>finish</b>
-
-![tutorial](Images/T_13.png)
-
+![tutorial](Images/T_13.PNG)
 
 5. done
+![tutorial](Images/T_14.PNG)
 
-![tutorial](Images/T_14.png)
-=======
-## 3. A vivado tutorial
->>>>>>> f9875567f9c76cab037e0eb9a05957d176361503:Labs/03-vivado/READMI.md
