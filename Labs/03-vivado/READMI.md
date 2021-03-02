@@ -71,11 +71,6 @@ p_stimulus : process
 ### Screenshot with simulated time waveforms
 ![waveforms](Images/prubeh.PNG)
 
-<<<<<<< HEAD:Labs/03-vivado/READMI.txt
-![waveforms](Images/prubeh.png)
-
-
-
 ## 3. A vivado tutorial
 
 ### New project
