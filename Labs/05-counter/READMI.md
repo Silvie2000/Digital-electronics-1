@@ -1,6 +1,6 @@
 ## 1. Preparation tasks
 ### Figure with connection of push buttons on Nexys A7 board
-![push buttons](Images/schema.JPG)
+![push buttons](Images/schema.jpg)
 ### Table with calculated values
 | **Time interval** | **Number of clk periods** | **Number of clk periods in hex** | **Number of clk periods in binary** |
 | :-: | :-: | :-: | :-: |
@@ -67,10 +67,10 @@
 ```
 ### Screenshot with simulated time waveforms
 #### Whole waveform
-![whole](Images/whole.JPG)
+![whole](Images/whole.PNG)
 
 #### Closeup waveform
-![closeup](Images/CLOSEUP.JPG)
+![closeup](Images/CLOSEUP.PNG)
 
 ## 3. Top level
 ### VHDL code (`top.vhd`)
