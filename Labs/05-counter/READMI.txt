@@ -190,4 +190,4 @@ begin
 end architecture Behavioral;
 ```
 ### Picture of the top layer including both counters, is a 4-bit bidirectional counter from Part 4 and a 16-bit counter
-![schema](Images/.JPG)
+![schema](Images/schema01.JPG)
