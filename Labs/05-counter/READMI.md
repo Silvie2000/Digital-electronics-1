@@ -1,6 +1,6 @@
 ## 1. Preparation tasks
 ### Figure with connection of push buttons on Nexys A7 board
-![push buttons](Images/schema.JPG)
+![push buttons](Images/schema.jpg)
 ### Table with calculated values
 | **Time interval** | **Number of clk periods** | **Number of clk periods in hex** | **Number of clk periods in binary** |
 | :-: | :-: | :-: | :-: |
@@ -67,10 +67,10 @@
 ```
 ### Screenshot with simulated time waveforms
 #### Whole waveform
-![whole](Images/whole.JPG)
+![whole](Images/whole.PNG)
 
 #### Closeup waveform
-![closeup](Images/CLOSEUP.JPG)
+![closeup](Images/CLOSEUP.PNG)
 
 ## 3. Top level
 ### VHDL code (`top.vhd`)
@@ -190,4 +190,8 @@ begin
 end architecture Behavioral;
 ```
 ### Picture of the top layer including both counters, is a 4-bit bidirectional counter from Part 4 and a 16-bit counter
+<<<<<<< HEAD:Labs/05-counter/READMI.txt
 ![schema](Images/schema01.JPG)
+=======
+![schema](Images/.JPG)
+>>>>>>> bf7a9ba8008c04a453f0953202abd3a20b8e034d:Labs/05-counter/READMI.md
