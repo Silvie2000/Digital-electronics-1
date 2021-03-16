@@ -190,8 +190,4 @@ begin
 end architecture Behavioral;
 ```
 ### Picture of the top layer including both counters, is a 4-bit bidirectional counter from Part 4 and a 16-bit counter
-<<<<<<< HEAD:Labs/05-counter/READMI.txt
-![schema](Images/schema01.JPG)
-=======
-![schema](Images/.JPG)
->>>>>>> bf7a9ba8008c04a453f0953202abd3a20b8e034d:Labs/05-counter/READMI.md
+![schema](Images/schema01.jpg)
