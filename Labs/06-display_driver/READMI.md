@@ -1,6 +1,6 @@
 ## 1. Preparation tasks
 ### Timing diagram figure for displaying value 3.142
-![](Images/wavedrom.jpg)
+![](Images/wavedrom.png)
 
 ## 2. Display driver
 ### VHDL code of the process p_mux
@@ -187,5 +187,5 @@ end architecture Behavioral;
 ```
 
 ## Eight-digit driver
-![8](Images/schema.png)
+![8](Images/schema.jpg)
    
