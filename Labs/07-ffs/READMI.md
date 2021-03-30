@@ -1,4 +1,4 @@
-@@ -0,0 +1,143 @@
+
 ## 1. Preparation tasks
 
 | **D** | **Qn** | **Q(n+1)** | **Comments** |
