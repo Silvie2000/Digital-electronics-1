@@ -134,7 +134,7 @@ p_stimulus : process
     end process p_stimulus;
 ```
 ### Screenshot with simulated time waveforms
-![waveforms](Images/d_latch.png)
+![waveforms](Images/d_latch.PNG)
 --------------------------------------------------------------------------------------------------------------
 ## 3. Flip-flops
 ### VHDL code listing of the processes (`p_d_ff_rst`)
@@ -218,7 +218,7 @@ end process p_d_latch;
     end process p_stimulus;
 
 ```
-![waveforms](Images/d_ff_arst.png)
+![waveforms](Images/d_ff_arst.PNG)
 ---------------------------------------------------------------------------------------------------------------
 ### VHDL code listing of the processes (`p_d_ff_rst`)
 ```vhdl
@@ -534,4 +534,4 @@ end Behavioral;
 --------------------------------------------------------------------------------------------------------------
 ## 4. Shift register
 ### Image of the shift register schematic 
-![waveforms](Images/4_bit.png)
+![waveforms](Images/4_bit.jpg)
