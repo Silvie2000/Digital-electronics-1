@@ -64,7 +64,7 @@ begin
         end if;      
     end process; 
 end sonar_arch;
-
+```
 ### VHDL code tb_sensor
 
 ```vhdl
@@ -115,4 +115,4 @@ begin
 end Behavioral;
 ```
 ### Diagram
-![waveforms](Images/prubeh.png)
+![waveforms](Images/prubeh.PNG)
