@@ -7,7 +7,7 @@
 | **Output R** | `0` | `0` | `0` | `0` | `0` | `1` | `0` | `0` | `0` | `1` | `0` | `0` | `0` | `0` | `1` | `0` |
 
 ### Connection of RGB LEDs on Nexys A7 board and completed table
-![waveforms](Images/NEXYS.JPG)
+![waveforms](Images/NEXYS.jpg)
 
 | **RGB LED** | **Artix-7 pin names** | **Red** | **Yellow** | **Green** |
 | :-: | :-: | :-: | :-: | :-: |
@@ -16,7 +16,7 @@
 
 ## 2. Traffic light controller
 ### State diagram
-![waveforms](Images/DIAGRAM.JPG)
+![waveforms](Images/DIAGRAM.jpg)
 ### VHDL code of sequential process p_traffic_fsm
 
 ```vhdl
@@ -165,7 +165,7 @@ end process p_traffic_fsm
 | `SOUTH_GO`   | green  | red | 4 sec |
 | `SOUTH_WAIT` | yellow | red | 2 sec |
 ### State diagram
-![waveforms](Images/diagram02.JPG)
+![waveforms](Images/diagram02.jpg)
 ### VHDL code of sequential process p_smart_traffic_fsm
 ```vhdl
 p_smart_traffic_fsm : process(clk)
